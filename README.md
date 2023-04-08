@@ -37,7 +37,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 
-<img src="https://github.com/rajeshXT/rajeshXT/blob/main/Assets/Super_Mario.gif" alt="Mario Game" width="980">
+<img src="https://github.com/rajeshXT/rajeshXT/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
 <br>
 <br>
